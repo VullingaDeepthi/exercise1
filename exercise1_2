@@ -1,0 +1,6 @@
+var num =7;
+var inp=25;
+var quot=Math.floor(inp/num);
+var rem=inp%num;
+console.log(quot);
+console.log(rem);
